@@ -1,0 +1,2 @@
+# PrivacyPolicy
+Termly privacy policy
